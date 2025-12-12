@@ -8,7 +8,7 @@
 ![Consistency](https://img.shields.io/badge/Consistency-95%25+-green)
 ![Time Saved](https://img.shields.io/badge/Time%20Saved-50%25-orange)
 
-**Client:** Calvary Temple, Hyderabad (Asia's 2nd Largest Church)  
+**Client:** Calvary Temple, Hyderabad (Asia's Largest Church)  
 **Event:** Sunday School Bible Exhibition 2025  
 **Date:** December 21, 2025
 
